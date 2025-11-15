@@ -1,0 +1,9 @@
+# Abaikan folder build dan native engine
+android/** linguist-vendored
+ios/** linguist-vendored
+build/** linguist-vendored
+.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
+
+# Pastikan Dart dihitung sebagai bahasa utama
+*.dart linguist-language=Dart
