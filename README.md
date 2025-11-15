@@ -1,4 +1,4 @@
-# kuis_haqi035
+# kuis 5 Pemrograman Mobile_haqi035
 mengerjakan nomor 2 Desain Kartu Profil Mahasiswa
 
 <p float="left">
